@@ -8,7 +8,6 @@ end
 
 def pioneer
   hash = {:name => 'Grace Hopper'}
-  return hash
 end
 
 def id_generator
